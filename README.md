@@ -1,2 +1,2 @@
 # Slide
-O objetivo é que os slide passem pela automaticamente em ciclos, no entato não tem ocorrido corretamente. O codigo precissa ser revisado!
+O objetivo é que os slide passem pela tela automaticamente um em seguida do outro, porém não tem ocorrido como o esperado. O codigo precissa ser revisado!
